@@ -2,5 +2,8 @@
   "dependencies": {
     "@fastify/http-proxy": "^7.1.0",
     "fastify": "^3.29.0"
+  },
+  "scripts": {
+    "start": "nodemon proxy-server.js"
   }
 }
